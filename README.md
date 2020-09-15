@@ -1,8 +1,8 @@
 ## Project title
-Essentialism is project built using frontend and backend collaboration. The project was made for a user to be able to choose 3 options out of a list of "values". These 3 values would represent what the user feels most accurately represents what they aspire to be, and is then saved to your account for recall or editing later.
+Essentialism
 
 ## Motivation
-We wanted to build an app that would provide a reflection for your values. Something to keep you reminded who you are and what you are working for.
+Essentialism is project built using frontend and backend collaboration. The project was made for a user to be able to choose 3 options out of a list of "values". These 3 values would represent what the user feels most accurately represents what they aspire to be, and is then saved to your account for recall or editing later. We wanted to build an app that would provide a reflection for your values. Something to keep you reminded who you are and what you are working for.
 
 ## Code style
 Formatted using Prettier and Beautify
